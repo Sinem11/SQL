@@ -1,0 +1,6 @@
+-- ASCII --CHAR
+
+
+SELECT ASCII ('S'),ASCII ('F')
+
+SELECT CHAR (70), CHAR(83)
